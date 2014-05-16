@@ -25,9 +25,9 @@ I'll skip this part since Goolge provides a bunch of related articles.
       | awesome_05_18_final_v2.py
       | awesome_05_19_final_final.py
     ```
-  - I'd like to rollback to previous version:
+  - I backup the current one before rolling back to previous version (sometimes I forgot and everyone heared the F-word)
     ```vim
-    $ cp awesome.py awesome_final_final_v2.py  # backup the current one first!
+    $ cp awesome.py awesome_final_final_v2.py  # !
     $ cp awesome_05_16_1630.py awesome.py
     ```
   
@@ -36,7 +36,7 @@ I'll skip this part since Goolge provides a bunch of related articles.
     /maxis/project
       | awesome.py
     ```
-  - And Git maintains the commit history for me
+  - Git maintains the commit history for me
     ```vim
     $ git hist
     * dc646a6 2014-05-16 | add git notes (HEAD, origin/master, origin/HEAD, master) [maxis]
@@ -44,7 +44,7 @@ I'll skip this part since Goolge provides a bunch of related articles.
     * 7f383c9 2014-05-16 | Initial commit [Maxis]
     ```
 
-  - rolling-back? simple.
+  - Rollback? No pain at all.
     ```vim
     $ git reset 97f4884
     ```
