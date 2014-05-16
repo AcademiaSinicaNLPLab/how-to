@@ -27,7 +27,7 @@ I'll skip this part since Goolge provides a bunch of related articles.
     ```
   - I backup the current one before rolling back to previous version (sometimes I forgot and everyone heared the F-word)
     ```vim
-    $ cp awesome.py awesome_final_final_v2.py  # !
+    $ cp awesome.py awesome_final_final_v2.py
     $ cp awesome_05_16_1630.py awesome.py
     ```
   
