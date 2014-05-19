@@ -24,7 +24,7 @@ I'll skip this part since Goolge provides a bunch of related articles.
       | awesome_05_18_final_v2.py
       | awesome_05_19_final_final.py
     ```
-  - I backup the current one before rolling back to previous version (sometimes I forgot...)
+  - I backup the current one before rolling back to previous version (sometimes I forgot to... disaster)
     ```vim
     $ cp awesome.py awesome_final_final_v2.py
     $ cp awesome_05_16_1630.py awesome.py
