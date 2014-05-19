@@ -50,3 +50,17 @@ I'll skip this part since Goolge provides a bunch of related articles.
 
 
 #### Who uses git?
+
+WE.
+
+#### an example
+
+[This](http://rogerdudler.github.io/git-guide/index.html) is my favorite guide for using git.
+
+There are bunches of websites providing the git service; here I take github for example
+
+step by step:
+
+1. create a <a href="https://github.com/" target="_blank">github</a> account
+2. add
+
