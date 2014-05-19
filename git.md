@@ -12,8 +12,7 @@ I'll skip this part since Goolge provides a bunch of related articles.
 
 - Version control
 - Easy to share, work with others
-- story
- 
+
   - Before I met git, I backup my programs in this way:
   
     ```vim
