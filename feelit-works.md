@@ -6,7 +6,7 @@ Feelit project
 	- 用 `sublime` + `ipython` 寫程式
 	- 用 `pip install [package]` 管理 python 套件
 	- 利用 `ssh` 登入 server
-		- ssh your-user-name@doraemon.iis.sinica.edu.tw -p 2222
+		- `ssh your-user-name@doraemon.iis.sinica.edu.tw -p 2222`
 	- 善用 `git` 做版本控制
 		- 申請 github 帳號，請企鵝幫忙加入 [實驗室 github 群組](https://github.com/AcademiaSinicaNLPLab)
 
